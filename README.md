@@ -60,3 +60,14 @@ and checks if it's over or under 18 and prints a message accordingly.
 ## [Print Function](projects/print_function.asm)
 
 This program does almost the same as print.asm, but uses a subroutine for it
+
+# Future Projects
+
+- Robust string-to-integer parser with validation
+- Simple calculator with multiple operations
+- Countdown timer with loop-based delay
+- Echo program that loops until "exit" is typed
+- Lowercase to uppercase converter
+- Password checker with hardcoded credentials
+- Formatted output in hexadecimal or binary
+- Factorial and Fibonacci implementations
