@@ -38,23 +38,25 @@ MIT License
 
 # Projects
 
-## hello_world.asm
+## [Hello World](projects/hello_world.asm)
 
 A simple hello world program
 
 It prints "Hello, World!"
 
-## print.asm
+## [Print](projects/print.asm)
 
 A print program that prints two messages
 
-## user_input.asm
+## [User Input](projects/user_input.asm)
 
 This one prompts the user for an input, and prints said input.
 
-## check_age.asm
+## [Check Age](projects/check_age.asm)
 
 This program prompts the user for its age,
 and checks if it's over or under 18 and prints a message accordingly.
 
-## print_function.asm
+## [Print Function](projects/print_function.asm)
+
+This program does almost the same as print.asm, but uses a subroutine for it
